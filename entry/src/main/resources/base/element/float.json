@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "title_font",
+      "value": "28fp"
+    },
+    {
+      "name": "title_height",
+      "value": "32vp"
+    },
+    {
+      "name": "secondary_title",
+      "value": "20fp"
+    }
+  ]
+}

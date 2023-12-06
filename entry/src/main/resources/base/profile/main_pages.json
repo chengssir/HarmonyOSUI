@@ -1,0 +1,8 @@
+{
+  "src": [
+    "LaunchScreen/LaunchScreen",
+    "pages/ListPage",
+    "pages/basics/TextPage"
+
+  ]
+}
