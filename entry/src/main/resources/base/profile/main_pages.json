@@ -2,7 +2,9 @@
   "src": [
     "LaunchScreen/LaunchScreen",
     "pages/ListPage",
-    "pages/basics/TextPage"
+    "pages/basics/TextPage",
+    "pages/basics/SpanTextPage",
+    "pages/basics/RichTextPage"
 
   ]
 }
