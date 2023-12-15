@@ -4,7 +4,8 @@
     "pages/ListPage",
     "pages/basics/TextPage",
     "pages/basics/SpanTextPage",
-    "pages/basics/RichTextPage"
-
+    "pages/basics/RichTextPage",
+    "pages/basics/MarqueePage",
+    "pages/basics/ButtonPage"
   ]
 }
